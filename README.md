@@ -3,7 +3,7 @@
 - :school:I’m study in Central South University
 - 👀 I’m interested in music 
 - 🌱 I’m currently learning Software Engineering
-- :orange_book: Focusing on Java && Reavt ||Vue
+- :orange_book: Focusing on Java && React || Vue
 - :hammer: Creator of applications and frameworks
 - 📫 How to reach me wechat:luosheepQAQ 
 
