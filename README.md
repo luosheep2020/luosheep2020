@@ -5,7 +5,7 @@
 - 🌱 I’m currently learning Software Engineering
 - :orange_book: Focusing on Java && Reavt ||Vue
 - :hammer: Creator of applications and frameworks
-- 📫 How to reach me vx:luosheepQAQ 
+- 📫 How to reach me wechat:luosheepQAQ 
 
 
 
