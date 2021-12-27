@@ -3,7 +3,7 @@
 - :school:I’m study in Shanghai JiaoTong University
 - 👀 I’m interested in music 
 - 🌱 I’m currently learning Computer Science&Technology
-- :orange_book: Focusing on Java  Golang Bigdata
+- :orange_book: Focusing on Java  Golang Bigdata React
 - :hammer: Creator of applications and frameworks
 - 📫 How to reach me  Gmail：luosheep2020@Gmail.com OR wechat:luosheepQAQ 
 
