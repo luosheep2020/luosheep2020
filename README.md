@@ -6,7 +6,7 @@
 - :orange_book: Focusing on Java go vue react
 - :hammer: Creator of applications and frameworks
 - 📫 How to reach me  @luosheep2020@gmail.com
-
+- [![My Skills](https://skillicons.dev/icons?i=go,java,vue,react,docker,kubernetes,mysql,redis,idea,linux,spring&theme=light)](https://skillicons.dev)
 
 
 
