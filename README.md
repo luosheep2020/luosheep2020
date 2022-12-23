@@ -1,11 +1,11 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%;height=200px" />
 </div>  
   
 
 ### <div align="center">I'm LuoSheep, a full-time full-stack freelance developer 👨‍💻</div>  
 ### 你好，世界 :sunny:
-- 👋 Hi, I’m @luosheep2020                             <img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true" />  
+- 👋 Hi, I’m @luosheep2020                             <img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  />  
 
 - 🏫I’m study in Beijing Normal University  
 - 👀 I’m interested in music  
