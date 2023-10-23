@@ -7,7 +7,7 @@
 ### 你好，世界 :sunny:
 - 👋 Hi, I’m @luosheep2020                             <img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  />  
 
-- 🏫I’m study in Bilibili University 
+- 🏫I’m study in Bilibili University (University of California)
 - 👀 I’m interested in music  
 - 🌱 I’m currently learning Computer Science&Technology  
 - 📙 Focusing on go java vue react  
