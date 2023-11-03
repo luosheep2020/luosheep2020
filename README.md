@@ -12,7 +12,7 @@
 - 📙 Focusing on java react etc.
 - 🔨 Creator of applications and frameworks.  
 - 📫 How to reach me @luosheep2020@gmail.com
-- 🗽 Anti-Autocracy ,world stand with Ukraine🇺🇦.
+- 🗽 Anti-authoritarian ,world stand with Ukraine🇺🇦.
 - 吾生有涯,而学无涯,以有涯随无涯.
 - 可代做毕设哈哈哈🤣
   
