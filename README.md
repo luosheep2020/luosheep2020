@@ -7,12 +7,13 @@
 ### Hello,World! :sunny:
 - 👋 Hi, I’m @luosheep2020 <img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  />  
 - 🏫I’m study in Bilibili University (University of California)
-- 👀 I’m interested in music  
-- 🌱 I’m currently learning Computer Science&Technology  
-- 📙 Focusing on java go ios vue react  
-- 🔨 Creator of applications and frameworks  
-- 📫 How to reach me @luosheep2020@gmail.com  
-- 吾生有涯,而学无涯,以有涯随无涯
+- 👀 I’m interested in music.  
+- 🌱 I’m currently learning Computer Science&Technology.
+- 📙 Focusing on java react etc.
+- 🔨 Creator of applications and frameworks.  
+- 📫 How to reach me @luosheep2020@gmail.com
+- 🗽 Anti-Autocracy ,world stand with Ukraine🇺🇦.
+- 吾生有涯,而学无涯,以有涯随无涯.
 - 可代做毕设哈哈哈🤣
   
 
