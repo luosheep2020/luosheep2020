@@ -11,10 +11,8 @@
 - 🌱 I’m currently learning Computer Science&Technology.
 - 📙 Focusing on java react etc.
 - 🔨 Creator of applications and frameworks.  
-- 📫 How to reach me @luosheep2020@gmail.com
-- 🗽 Anti-authoritarian ,world stand with Ukraine🇺🇦.
-- 吾生有涯,而学无涯,以有涯随无涯.
-- 可代做毕设哈哈哈🤣
+- 📫 How to reach me @******@gmail.com
+- 🗽 Anti-authoritarian,world stand with Ukraine.
   
 
 <br/>  
