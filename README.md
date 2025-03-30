@@ -12,8 +12,8 @@
 - 📙 Focusing on java react etc.
 - 🔨 Creator of applications and frameworks.  
 - 📫 How to reach me @******@gmail.com
-- 🗽 Anti-authoritarian,world stand with Ukraine.
-  
+- 🗽 Anti-authoritarian,world stand with Ukraine.</br>
+  中文 English 日本語 Español Français
 
 <br/>  
 
