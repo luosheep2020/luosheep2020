@@ -5,13 +5,6 @@
 
 ### <div align="center">I'm LuoSheep, a full-time full-stack freelance developer 👨‍💻</div>
 ### Hello,World! :sunny:
-- 👋 Hi, I’m @luosheep2020 <img align="right" src="https://github-readme-stats.vercel.app/api?username=onevcat&show_icons=true&icon_color=CE1D2D&text_color=718096&bg_color=ffffff&hide_title=true"  />  
-- 👀 I’m interested in music.  
-- 🌱 I’m currently learning Computer Science&Technology.
-- 📙 Focusing on java react etc.
-- 🔨 Creator of applications and frameworks.  
-- 📫 How to reach me @******@gmail.com
-- 中文 English 日本語
 
 <br/>  
 
